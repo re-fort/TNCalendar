@@ -6,4 +6,4 @@ TERAKAWA NATSUMI CALENDAR
 Check Today's Look of Terakawa Natsumi
 (Last updated on Feb/15/2015)
 
-http://re-fort.net/TNCalendar/
+https://re-fort.net/TNCalendar/
